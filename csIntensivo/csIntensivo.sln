@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csIntensivo", "csIntensivo.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herencia", "..\herencia\herencia.csproj", "{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\Interface\Interface.csproj", "{B94DEFA9-16B4-4321-8F11-934048DDFFCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B94DEFA9-16B4-4321-8F11-934048DDFFCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B94DEFA9-16B4-4321-8F11-934048DDFFCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B94DEFA9-16B4-4321-8F11-934048DDFFCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B94DEFA9-16B4-4321-8F11-934048DDFFCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
