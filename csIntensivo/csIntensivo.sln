@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csIntensivo", "csIntensivo.csproj", "{DB9BA858-DC52-4966-B82C-45C948C42212}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herencia", "..\herencia\herencia.csproj", "{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DB9BA858-DC52-4966-B82C-45C948C42212}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB9BA858-DC52-4966-B82C-45C948C42212}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB9BA858-DC52-4966-B82C-45C948C42212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
