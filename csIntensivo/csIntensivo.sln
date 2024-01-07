@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csIntensivo", "csIntensivo.csproj", "{DB9BA858-DC52-4966-B82C-45C948C42212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "csIntensivo", "csIntensivo.csproj", "{DB9BA858-DC52-4966-B82C-45C948C42212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "herencia", "..\herencia\herencia.csproj", "{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "herencia", "..\herencia\herencia.csproj", "{7B9F6D58-A8CE-41B4-BB5C-E6FB5D733CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "..\Interface\Interface.csproj", "{B94DEFA9-16B4-4321-8F11-934048DDFFCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "..\Interface\Interface.csproj", "{B94DEFA9-16B4-4321-8F11-934048DDFFCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "..\Generics\Generics.csproj", "{81B94FB3-1007-47AB-862A-AF4A17BA6B7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "..\Generics\Generics.csproj", "{81B94FB3-1007-47AB-862A-AF4A17BA6B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialization", "..\Serialization\Serialization.csproj", "{44721B98-E89F-485C-85FF-CC76FA3DEC33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{81B94FB3-1007-47AB-862A-AF4A17BA6B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81B94FB3-1007-47AB-862A-AF4A17BA6B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81B94FB3-1007-47AB-862A-AF4A17BA6B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44721B98-E89F-485C-85FF-CC76FA3DEC33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44721B98-E89F-485C-85FF-CC76FA3DEC33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44721B98-E89F-485C-85FF-CC76FA3DEC33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44721B98-E89F-485C-85FF-CC76FA3DEC33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
