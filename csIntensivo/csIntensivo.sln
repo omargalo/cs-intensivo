@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "..\Generics\Gen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialization", "..\Serialization\Serialization.csproj", "{44721B98-E89F-485C-85FF-CC76FA3DEC33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgramacionFuncional", "..\ProgramacionFuncional\ProgramacionFuncional.csproj", "{2CC71C77-4681-401D-9BBD-8836E980A8EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProgramacionFuncional", "..\ProgramacionFuncional\ProgramacionFuncional.csproj", "{2CC71C77-4681-401D-9BBD-8836E980A8EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "..\Lambda\Lambda.csproj", "{7C4AF218-93C9-4DC5-96DA-CC9CC854B926}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{2CC71C77-4681-401D-9BBD-8836E980A8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CC71C77-4681-401D-9BBD-8836E980A8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CC71C77-4681-401D-9BBD-8836E980A8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4AF218-93C9-4DC5-96DA-CC9CC854B926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4AF218-93C9-4DC5-96DA-CC9CC854B926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4AF218-93C9-4DC5-96DA-CC9CC854B926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4AF218-93C9-4DC5-96DA-CC9CC854B926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
