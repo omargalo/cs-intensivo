@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "..\Exceptions
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "..\Delegate\Delegate.csproj", "{898D30F0-D72E-4F58-A131-BA36CEEEC9CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateWithParameters", "..\DelegateWithParameters\DelegateWithParameters.csproj", "{C0102896-9A83-4CD0-B549-727CD3B17C53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{898D30F0-D72E-4F58-A131-BA36CEEEC9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{898D30F0-D72E-4F58-A131-BA36CEEEC9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{898D30F0-D72E-4F58-A131-BA36CEEEC9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0102896-9A83-4CD0-B549-727CD3B17C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0102896-9A83-4CD0-B549-727CD3B17C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0102896-9A83-4CD0-B549-727CD3B17C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0102896-9A83-4CD0-B549-727CD3B17C53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
